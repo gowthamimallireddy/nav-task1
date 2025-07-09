@@ -25,3 +25,7 @@ span{
     display: flex;
     flex-direction: column;
 }
+.items:hover{
+     background-color: gray;
+    padding:5px 15px;
+}
